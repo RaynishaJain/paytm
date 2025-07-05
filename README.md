@@ -1,5 +1,5 @@
 
-# PayTM Clone – Backend Only (Basic Version)
+# PayTM Clone – Backend Only
 
 This is the backend of a basic PayTM clone, built using **Node.js**, **Express.js**, and **MongoDB** (via MongoDB Compass or MongoDB Atlas). It provides API endpoints for user authentication, balance handling, and money transfers.
 
